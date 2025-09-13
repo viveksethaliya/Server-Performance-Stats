@@ -11,15 +11,7 @@ The script supports the following options:
 - **b)** Total memory usage (Free vs Used including percentage)  
 - **c)** Total disk usage (Free vs Used including percentage)  
 - **d)** Top 5 processes by CPU usage  
-- **e)** Top 5 processes by memory usage  
-
-### Stretch Goals (Optional)
-You can extend the script to also show:
-- OS version  
-- Uptime  
-- Load average  
-- Logged-in users  
-- Failed login attempts  
+- **e)** Top 5 processes by memory usage    
 
 ## Usage
 
