@@ -1,6 +1,7 @@
 # Server Performance Stats
 
-This project is a simple Bash script (`server-stats.sh`) that analyzes basic server performance metrics.  
+This project is a simple Bash script (`server-stats.sh`) that analyzes basic server performance metrics. from
+```https://roadmap.sh/projects/server-stats```
 It works on any Linux server and provides quick insights into CPU, memory, disk usage, and top resource-consuming processes.
 
 ## Features
